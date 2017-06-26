@@ -15,7 +15,7 @@ class FresquitoService implements FresquitoServiceInterface
 
     public function getResults()
     {
-        // Esta función debe leer la api y retornar un array con este formato
+        // Este método debe leer la api y retornar un array con este formato
         // respetando las reglas descritas en http://reto.acilia.es
 
         return [

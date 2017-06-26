@@ -15,12 +15,13 @@ class FresquitoService implements FresquitoServiceInterface
 
     public function getResults()
     {
-        // Esta función debe leer la api y retornar el listado
-        // respetando el formato establecido en http://challenge.acilia.es/bases.html
+        // Esta función debe leer la api y retornar un array con este formato
+        // respetando las reglas descritas en http://reto.acilia.es
+
         return [
-            'vigo' => '20',
-            'santander' => '25',
-            'madrid' => '30'
-        ];
+            [1, 'DON BENITO', '30,2'],
+            [2, 'SANTA ELENA', '30,8'],
+            [3, 'VEJER DE LA FRONTERA', '31,0']
+            ];
     }
 }

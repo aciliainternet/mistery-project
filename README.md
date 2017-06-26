@@ -6,7 +6,7 @@ EL objetivo de este proyecto es servir de base y entorno de prubas para particip
 ¿Qué hay que hacer?
 --------------
 
-Básicamente, crear un servicio, cuyo esqueleto está definido en [https://github.com/aciliainternet/mistery-project/blob/master/src/AciliaChallengeBundle/Service/FresquitoService.php](https://github.com/aciliainternet/mistery-project/blob/master/src/AciliaChallengeBundle/Service/FresquitoService.php)
+Básicamente, crear un servicio, cuyo esqueleto está definido en [https://github.com/aciliainternet/reto-acilia/blob/master/src/AciliaChallengeBundle/Service/FresquitoService.php](https://github.com/aciliainternet/reto-acilia/blob/master/src/AciliaChallengeBundle/Service/FresquitoService.php)
 
 Más detalles en [http://reto.acilia.es](http://reto.acilia.es)
 

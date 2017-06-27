@@ -1,7 +1,7 @@
 RETO DE CODIGO ACILIA EN DESYMFONY
 ========================
 
-EL objetivo de este proyecto es servir de base y entorno de prubas para participar en el [Reto de Código de Acilia en deSymfony](http://reto.acilia.es). 
+EL objetivo de este proyecto es servir de base y entorno de pruebas para participar en el [Reto de Código de Acilia en deSymfony](http://reto.acilia.es). 
 
 ¿Qué hay que hacer?
 --------------
